@@ -25,3 +25,9 @@ Download Contoh Aplikasi Kami
 
 
 [![Aplikasi](https://api.codacy.com/project/badge/Grade/e03c67b3b4414d2aac614a3d31f91b74)](https://www.juggle-jack.com/store/AndroidTutorial)
+
+**Wiki **
+
+'masuk dan lihat apa yang anda cari'
+
+[Panduan]() .[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d5154652a47442ceb3ae1f4a6ec8f843)](https://github.com/BuatApkOlshop/TutorialUpdate.io.wiki.git)
