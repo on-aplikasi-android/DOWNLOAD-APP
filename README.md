@@ -14,3 +14,14 @@ Buat aplikasi anda dan build
 -> clik di bawah ini untuk masuk
 
 [![Aplikasi](https://api.codacy.com/project/badge/Grade/e03c67b3b4414d2aac614a3d31f91b74)]( https://github.com/on-aplikasi-android/DOWNLOAD-APP)
+
+---
+
+**Download Apps**
+
+Download Contoh Aplikasi Kami
+
+'Jika anda masih ragu atau masih bertanya-tanya mari Download Contoh Aplikasi dan lihat betapa mudahnya Membuat Aplikasi Android Tanpa Koding'
+
+
+[![Aplikasi](https://api.codacy.com/project/badge/Grade/e03c67b3b4414d2aac614a3d31f91b74)](https://www.juggle-jack.com/store/AndroidTutorial)
